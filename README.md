@@ -7,14 +7,14 @@
   
 - How to reach me ... 📫
   - Email: samuel.sweigart@gmail.com
-  - LinkedIn: <a style='text-decoration: none'>https://www.linkedin.com/in/sam-sweigart/</a>
+  - LinkedIn: https://www.linkedin.com/in/sam-sweigart/
 <br/>
   <div align='center'>
     <a href="https://github.com/gamgee-em/github-readme-stats ">
-      <img style='height: 18vh' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamgee-em&layout=compact" />
+      <img style='height: 18vh' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamgee-em&layout=compact&theme=dark" />
     </a>
     <a href="https://github.com/gamgee-em/">
-      <img style='height: 18vh' align="center" src="https://github-readme-stats.vercel.app/api?username=gamgee-em" />
+      <img style='height: 18vh' align="center" src="https://github-readme-stats.vercel.app/api?username=gamgee-em&theme=dark" />
     </a>
   </div
 
