@@ -1,11 +1,16 @@
-### Hi there 👋
+## Hi There! 👋
+### My name is Sam, welcome to my GitHub Profile!
 
 - 🔭 I’m currently working on ...
   - React Personal Portfolio
-  - Creating new version of "Tech Blog" to incorporate React & graphQl
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  - Creating new version of "Tech Blog" to incorporate React & GraphQL
+<br/>
+<a href="https://github.com/gamgee-em/github-readme-stats ">
+  <img style='height: 20vh' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamgee-em&layout=compact" />
+</a>
+<a href="https://github.com/gamgee-em/">
+  <img style='height: 20vh' align="center" src="https://github-readme-stats.vercel.app/api?username=gamgee-em&hide=issues" />
+</a>
 
 <!--
 **gamgee-em/gamgee-em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
