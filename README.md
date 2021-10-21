@@ -1,5 +1,5 @@
-## Hi There! 👋
-### I'm Sam, welcome to my GitHub Profile!
+## Hi There! 👋 I'm Sam, welcome to my GitHub Profile!
+
 
 <img style="width: 100vw; height: 40vh; text-align: center; " src="https://github.com/gamgee-em/gamgee-em/blob/main/new_joes_campground_view.jpg" alt="Joe's Valley, Utah - Photo by Craig Fineburg" />
 
