@@ -1,11 +1,21 @@
 ## Hi There! 👋
-### My name is Sam, welcome to my GitHub Profile!
+### I'm Sam, welcome to my GitHub Profile!
 
-- I’m currently working on ... 🔨 🦺 
+<img style="width: 100vw; height: 40vh; text-align: center; " src="https://github.com/gamgee-em/gamgee-em/blob/main/new_joes_campground_view.jpg" alt="Joe's Valley, Utah - Photo by Craig Fineburg" />
+
+- ### __Skills and Experience__
+  - React
+  - JavaScript
+  - TypeScript
+  - HTML
+  - CSS
+  - Node
+
+- ### __I’m currently working on ...__ 🔨 🦺 
   - React Personal Portfolio
   - Creating new version of "Tech Blog" to incorporate React & GraphQL
   
-- How to reach me ... 📫
+- ### __How to reach me ...__ 📫
   - Email: samuel.sweigart@gmail.com
   - LinkedIn: https://www.linkedin.com/in/sam-sweigart/
 <br/>
