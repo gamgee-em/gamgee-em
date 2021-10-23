@@ -1,15 +1,15 @@
 ## Hi There! 👋 I'm Sam, welcome to my GitHub Profile!
 
 
-<img style="width: 100vw; height: 40vh; text-align: center; " src="https://github.com/gamgee-em/gamgee-em/blob/main/new_joes_campground_view.jpg" alt="Joe's Valley, Utah - Photo by Craig Fineburg" />
+<img style="width: 100vw; height: 40vh; text-align: center;" src="https://github.com/gamgee-em/gamgee-em/blob/main/new_joes_campground_view.jpg" alt="Joe's Valley, Utah - Photo by Craig Fineburg" />
 
 - ### __Skills and Experience__
-  - React
-  - JavaScript
-  - TypeScript
-  - HTML
-  - CSS
-  - Node
+  - React <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-react-native-50.svg'>
+  - JavaScript <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-javascript-50.svg'>
+  - TypeScript <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-node-js-50.svg'>
+  - HTML <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-html-5-50.svg'>
+  - CSS <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-css3-50.svg'>
+  - Node <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-node-js-50.svg'>
 
 - ### __I’m currently working on ...__ 🔨 🦺 
   - React Personal Portfolio
@@ -21,10 +21,10 @@
 <br/>
   <div align='center'>
     <a href="https://github.com/gamgee-em/github-readme-stats ">
-      <img style='height: 22vh' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamgee-em&layout=compact&theme=dark" />
+      <img style='height: 22vh;' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamgee-em&layout=compact&theme=dark" />
     </a>
     <a href="https://github.com/gamgee-em/">
-      <img style='height: 22vh' align="center" src="https://github-readme-stats.vercel.app/api?username=gamgee-em&theme=dark" />
+      <img style='height: 22vh;' align="center" src="https://github-readme-stats.vercel.app/api?username=gamgee-em&theme=dark" />
     </a>
   </div
 
