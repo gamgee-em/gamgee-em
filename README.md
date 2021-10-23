@@ -6,7 +6,7 @@
 - ### __Skills and Experience__
   - React <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-react-native-50.svg'>
   - JavaScript <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-javascript-50.svg'>
-  - TypeScript <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-node-js-50.svg'>
+  - TypeScript <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-typescript.svg'>
   - HTML <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-html-5-50.svg'>
   - CSS <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-css3-50.svg'>
   - Node <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-node-js-50.svg'>
