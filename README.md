@@ -21,10 +21,10 @@
 <br/>
   <div align='center'>
     <a href="https://github.com/gamgee-em/github-readme-stats ">
-      <img style='height: 22vh' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamgee-em&layout=compact&theme=dark" />
+      <img style='height: 22vh'; align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamgee-em&layout=compact&theme=dark" />
     </a>
     <a href="https://github.com/gamgee-em/">
-      <img style='height: 22vh' align="center" src="https://github-readme-stats.vercel.app/api?username=gamgee-em&theme=dark" />
+      <img style='height: 22vh'; align="center" src="https://github-readme-stats.vercel.app/api?username=gamgee-em&theme=dark" />
     </a>
   </div
 
