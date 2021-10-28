@@ -1,5 +1,10 @@
-## Hi There! 👋 I'm Sam, welcome to my GitHub Profile!
-
+ <div align='center'>
+  <h2>Hi There! 👋 I'm Sam, welcome to my GitHub Profile!</h2>
+  <a href="https://gamgee-em.github.io/Portfolio-React/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
+  <a href="https://www.linkedin.com/in/sam-sweigart/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>
+    </br>
+  <a href="mailto: samuel.sweigart@gmail.com">samuel.sweigart@gmail.com</a>
+ </div>
 
 <img style="width: 100vw; height: 40vh; text-align: center;" src="https://github.com/gamgee-em/gamgee-em/blob/main/new_joes_campground_view.jpg" alt="Joe's Valley, Utah - Photo by Craig Fineburg" />
 
@@ -14,10 +19,7 @@
 - ### __I’m currently working on ...__ 🔨 🦺 
   - React Personal Portfolio
   - Creating new version of "Tech Blog" to incorporate React & GraphQL
-  
-- ### __How to reach me ...__ 📫
-  - Email: samuel.sweigart@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/sam-sweigart/
+ 
 <br/>
   <div align='center'>
     <a href="https://github.com/gamgee-em/github-readme-stats ">
@@ -27,18 +29,3 @@
       <img style='height: 20vh'; align="center" src="https://github-readme-stats.vercel.app/api?username=gamgee-em&theme=dark" />
     </a>
   </div
-
-<!--
-**gamgee-em/gamgee-em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
