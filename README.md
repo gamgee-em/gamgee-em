@@ -17,8 +17,8 @@
   - Node <img style='height: 2vh;' src='https://github.com/gamgee-em/gamgee-em/blob/main/icons8-node-js-50.svg'>
 
 - ### __I’m currently working on ...__ 🔨 🦺 
-  - React Personal Portfolio
-  - Creating new version of "Tech Blog" to incorporate React & GraphQL
+  - React Personal Portfolio | <a href="https://github.com/gamgee-em/Portfolio-React"> Repo  </a>
+  - All Things Tech | <a href="https://github.com/gamgee-em/All-Things-Tech"> Repo </a>
  
 <br/>
   <div align='center'>
