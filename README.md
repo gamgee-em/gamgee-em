@@ -2,6 +2,7 @@
   <h2>Hi There! 👋 I'm Sam, welcome to my GitHub Profile!</h2>
   <a href="https://gamgee-em.github.io/Portfolio-React/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
   <a href="https://www.linkedin.com/in/sam-sweigart/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>
+  <a href="https://github.com/gamgee-em"> <img src="https://komarev.com/ghpvc/?username=gamgee-em" alt="Sam Sweigart"/> </a>
     </br>
   <a href="mailto: samuel.sweigart@gmail.com">samuel.sweigart@gmail.com</a>
  </div>
