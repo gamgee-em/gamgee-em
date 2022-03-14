@@ -19,7 +19,7 @@
 
 - ### __I’m currently working on ...__ 🔨 🦺 
   - React Personal Portfolio | <a href="https://github.com/gamgee-em/Portfolio-React"> Repo  </a>
-  - All Things Tech | <a href="https://github.com/gamgee-em/All-Things-Tech"> Repo </a>
+  - React Apollo Shop | <a href="https://github.com/alexbradshaw/react-apollo-shop"> Collaborative Repo </a>
  
 <br/>
   <div align='center'>
