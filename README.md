@@ -20,5 +20,5 @@
   - React Personal Portfolio | <a href="https://github.com/gamgee-em/Portfolio-React"> Repo  </a>
   - React Apollo Shop | <a href="https://github.com/alexbradshaw/react-apollo-shop"> Collaborative Repo </a>
 
-<img width='100%' align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamgee-em&theme=dark" />
+<img width='100%' align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamgee-em&layout=compact&theme=dark" />
 <img width='100%' align='center' src="https://github-readme-stats.vercel.app/api?username=gamgee-em&theme=dark"/>
