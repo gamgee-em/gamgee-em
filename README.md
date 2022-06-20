@@ -21,4 +21,3 @@
   - E-Commerce Store | <a href="https://github.com/alexbradshaw/react-apollo-shop"> Collaborative Repo </a>
 
 <img width='100%' align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamgee-em&layout=compact&theme=dark" alt='GitHub stats'/>
-<img width='100%' align='center' src="https://github-readme-stats.vercel.app/api?username=gamgee-em&theme=dark" alt='GitHub stats' />
