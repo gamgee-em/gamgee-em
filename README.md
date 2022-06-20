@@ -1,5 +1,5 @@
 <div align='center'>
-<h2>Hi There! 👋 I'm Sam, welcome to my GitHub Profile!</h2>
+<h2>Hi There! 👋 I'm Sam, Welcome to my GitHub!</h2>
 <a href="https://gamgee-em.github.io/Portfolio-React/" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub&logoColor=black&color=orange&style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/sam-sweigart/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn&logoColor=black&style=for-the-badge"></a>
 <a href="https://github.com/gamgee-em"> <img src="https://komarev.com/ghpvc/?username=gamgee-em&color=yellow&style=for-the-badge" alt="Sam Sweigart"/> </a>
